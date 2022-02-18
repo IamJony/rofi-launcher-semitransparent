@@ -11,7 +11,7 @@ nice semi-transparent theme for rofi
 ![GitHub Logo](/rofi.png)
 
 ## How to install:
-`git clone https://github.com/IamJony/rofi-launcher-semitransparent.git &&
-cd rofi-launcher-semitransparent/ &&  cd rofi-launcher-semi-transparent/ &&
-chmod+x install-rofi-launcher-transparent.sh
-`
+`git clone https://github.com/IamJony/rofi-launcher-semitransparent.git`
+`cd rofi-launcher-semitransparent/ &&  cd rofi-launcher-semi-transparent/`
+`chmod +x install-rofi-launcher-transparent.sh`
+
