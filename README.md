@@ -9,3 +9,6 @@ nice semi-transparent theme for rofi
 
 ## Example:
 ![GitHub Logo](/rofi.png)
+
+## How to install:
+git clone 
