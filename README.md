@@ -1,4 +1,4 @@
-# Rofi Launcher Semitransparent
+# ROFI LAUNCHER SEMITRANSPARENT
 nice semi-transparent theme for rofi
 
 
