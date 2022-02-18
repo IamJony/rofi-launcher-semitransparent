@@ -2,5 +2,5 @@
 nice semi-transparent theme for rofi
 
 
-## Answer:
+## Example:
 ![GitHub Logo](/rofi.png)
