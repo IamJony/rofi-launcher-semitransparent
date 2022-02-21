@@ -1,6 +1,8 @@
 # ROFI LAUNCHER SEMITRANSPARENT
 nice semi-transparent theme for rofi
 
+## Dependency:
+* **Compositor for the transparency example: picon, compton etc.**
 
 ## Optional dependencies:
 * Font: Nova Mono for Powerline
