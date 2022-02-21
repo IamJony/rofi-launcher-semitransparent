@@ -19,5 +19,7 @@ nice semi-transparent theme for rofi
 
 `chmod +x install-rofi-launcher-transparent.sh`
 
+`./install.sh`
+
 ## Run:
 `~/.config/rofi/launcher-transparent/launcher.sh`
